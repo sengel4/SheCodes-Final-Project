@@ -1,0 +1,67 @@
+body {
+  padding: 0 20px;
+  width: 100%;
+}
+h1 {
+  font-family: "Zen Loop", cursive;
+  font-size: 80px;
+  color: #29668b;
+}
+h3 {
+  font-family: "Nunito", sans-serif;
+  color: #4bc87f;
+  padding: 20px 0 10px 0;
+}
+img {
+  width: 120px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  border-radius: 15px 0px 15px 0px;
+  border: 5px solid #f0f87f;
+}
+h5 {
+  color: #29668b;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.stats {
+  color: #6eaff7;
+  font-size: 14px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px 0 0 0;
+}
+.emoji {
+  font-size: 35px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0 0 0 0;
+}
+.current {
+  color: #6eaff7;
+  font-size: 18px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.future {
+  color: #6eaff7;
+  font-size: 12px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px 0 0 0;
+}
+.day {
+  color: #29668b;
+  font-size: 16px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px 0 0 0;
+  font-weight: bold;
+}
